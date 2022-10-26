@@ -1,0 +1,27 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Tutorial de lógica de progrmação com a plataforma Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "https://github.com/kauanoliveira01/node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kauanoliveira01/node.git"
+  },
+  "keywords": [
+    "node",
+    "turorial",
+    "git"
+  ],
+  "author": "Kauan Oliveira Cardozo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kauanoliveira01/node/issues"
+  },
+  "homepage": "https://github.com/kauanoliveira01/node#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
