@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/kauanoliveira01/node)
-# Tutorial Node
-Tutorial de lógica progrmação com a plataforma Node
+# Tutorial NodeJS
+Tutorial de lógica progrmação usando javaScript e a plataforma Node.
 ## Autor 
 Kauan Olvieira
 ## Links
